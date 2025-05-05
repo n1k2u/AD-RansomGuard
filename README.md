@@ -30,6 +30,8 @@ The simulation environment consists of:
 - Windows Server 2019 (Active Directory Domain Controller)
 - Splunk Enterprise instance with forwarders on all Windows systems
 
+  ![Network Architecture](images/Virtual-env.png)
+
 ## Attack Simulation
 
 The attack employs common tools and techniques used by ransomware operators:
