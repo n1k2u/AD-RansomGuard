@@ -68,3 +68,7 @@ Potential areas for further development:
 - Automated incident response capabilities
 - Integration with threat intelligence
 - Implementation of Zero Trust principles
+
+  ## Author
+
+- Nikhil Gauti
