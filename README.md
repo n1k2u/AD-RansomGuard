@@ -69,6 +69,6 @@ Potential areas for further development:
 - Integration with threat intelligence
 - Implementation of Zero Trust principles
 
-  ## Author
+## Author
 
 - Nikhil Gauti
